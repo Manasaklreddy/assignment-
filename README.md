@@ -8,4 +8,4 @@ These screenshots demonstrate user authentication for two distinct roles: Facult
 ![student_token](https://github.com/user-attachments/assets/430b3db0-ff00-44de-a0b4-16dde5983a91)
 
 The Quiz demonstration video link.
-https://drive.google.com/drive/u/0/folders/1Sv2gz_V2E5SYFMRFATjygMyAqr2I8Iq0
+https://drive.google.com/drive/folders/1Z2BJwTT9wNzOadyaczomXuDivIOgx-w0
